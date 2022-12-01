@@ -1,4 +1,4 @@
-![](logotransparent.png)
+![](logotransparentwinter.png)
 
 ### Hi I'm Florin
   * 💡 PS4 & Vita enthusiast looking to help people take full advantage of their devices.
