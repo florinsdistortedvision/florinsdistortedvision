@@ -3,8 +3,8 @@
 ### Hi I'm Florin
   * 💡 PS4 & Vita enthusiast looking to help people take full advantage of their devices.
   * 📖 I also sometimes help people with English to Romanian translations and vice-versa.
-  * ✨ 22
-  * 🎮 Currently playing: Mirror's Edge Catalyst
+  * ✨ 23
+  * 💿 Currently streaming: Another Chance by Hikaru Utada (from First Love: Remastered 2014)
 
 ### While you're here, why not take a look at my projects!
   * <a href="https://florinsdistortedvision.github.io/orbisunjailed/"> ★ Orbis Unjailed - The up-to-date all-in-one wiki to assist your PS4's Jailbreak process! </a>
