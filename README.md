@@ -1,10 +1,11 @@
 ![](logotransparentwinter.png)
 ![](autumn.gif)
 ### Hi I'm Florin
-  * 💡 PS4 & Vita enthusiast looking to help people take full advantage of their devices.
+  * 💡 PS4 enthusiast looking to help people take full advantage of their devices.
+  * 🛡️ Sometimes be modding Windows.
   * 📖 I also sometimes help people with English to Romanian translations and vice-versa.
   * ✨ 23
-  * 💿 Currently streaming: Another Chance by Hikaru Utada (from First Love: Remastered 2014)
+  * 💿 Currently streaming: Dreamscape by 009 Sound System.
 
 ### While you're here, why not take a look at my projects!
   * [★ Windows Harmony - Custom Harmonized Windows 10 Transformation Pack](https://github.com/florinsdistortedvision/Windows-Harmony)
